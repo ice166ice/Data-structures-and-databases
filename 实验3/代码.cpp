@@ -341,6 +341,7 @@ void DestroyBitree(BiTree &T){
 
 
 int main(){
+	cout<<"by Ann"<<endl;
 	const int MaxTrees = 10;//定义最大数组数量
 	BiTree Forests[MaxTrees];//定义指针数组存放二叉树的头指针
 	for(int i=0;i<MaxTrees;i++){
